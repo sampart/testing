@@ -2,5 +2,5 @@ extraction:
   csharp:
     index:
       build_command:
-        - "sleep 4000"
+        - "sleep 8000"
 
