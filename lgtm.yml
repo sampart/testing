@@ -1,4 +1,7 @@
 extraction:
+  cpp:
+    after_prepare:    # Customizable step used by all languages.
+      - git clone git@github.com:sampart/dotfiles.git # this will fail
   csharp:
     index:
       build_command:
