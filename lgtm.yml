@@ -1,6 +1,0 @@
-extraction:
-  csharp:
-    index:
-      build_command:
-        - "sleep 8000"
-
